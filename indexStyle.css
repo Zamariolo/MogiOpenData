@@ -1,0 +1,28 @@
+body {
+	background-color: 
+}
+
+.btnMenu {
+	color: #311b92;
+	font-size: 19px;
+}
+
+.separador {
+	height: 60px;
+}
+
+.separador-sm {
+	height: 15px;
+}
+
+.titulosGraficos {
+	color: #311b92
+}
+
+.carrossel {
+	width: 90%;
+}
+
+.conteudoCarrossel {
+	background-color: purple;
+}

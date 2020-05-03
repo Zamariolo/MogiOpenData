@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>mogi open data</title>
+
+	<!-- Bootstrap -->
+
+	<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+</head>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+<!-- p5 -->
+<script type="text/javascript" src='p5.min.js'></script>
+<!-- Chart js -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+<!-- Apex charts -->
+<script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
+<script type="text/javascript" src="libJS/apexcharts.min.js"></script>
+<!-- Caroussel -->
+<link rel="stylesheet" href="css/flickity.css" media="screen">
+<body>
+
+
+	<!-- Header -->
+	<div id='divCanvas'></div>
+
+	<!-- Explicacao -->
+	<div class="container lead">
+		<p>mogiOpenData é uma plataforma de dados e informação sem fins lucrátivos, apartidário, objetivo e colaborativo. Os dados são atualizados diariamente, sem viés e possuem informações checadas com fontes oficiais. </p>
+
+		<p>Este projeto está sendo criado de forma colaborativa e todos seus dados e análises estão abertas à discussão.</p> 
+
+		<p>Em baixo de cada gráfico, você pode baixar a imagem, os dados utilizados (em formato .csv) e ter acesso ao relatório com a análise numérica completa disponível em Google Colab.</p>
+
+	</div>
+	
+	<div class="separador"></div>
+
+	<!-- Menu de atalho -->
+	<center>
+	<div class="container row">
+		<a href="" class="btn col btnMenu">COVID-19</a>
+		<a href="" class="btn col btnMenu">Em breve</a>
+		<a href="" class="btn col btnMenu">Em breve</a>
+	</div>
+	</center>
+
+	<div class="separador"></div>
+
+<!-- ######################################################## -->
+
+
+	<!-- Caroussel com biblioteca -->
+	<!-- Flickity HTML init -->
+	<div class="gallery js-flickity"
+	  data-flickity-options='{ "wrapAround": true }'
+	  style="width: 100%">
+	  
+	  <!-- Isolamento -->
+	  <div class="gallery-cell">
+	  	<div class="container">
+			<h2 class="titulosGraficos">Pelo menos 77 mil pessoas continuam circulando diariamente por Mogi Guaçu</h2>
+
+			<div class="separador-sm"></div>
+			<div id='canvasIsolamento' class=""></div>
+			<div class="separador-sm"></div>
+
+			<!-- Barra de transparencia -->
+			<div class="row border">
+				<a href="" class="btn btnMenu col">Baixar imagem</a>
+				<a href="" class="btn btnMenu col">Baixar dados (.csv)</a>
+				<a href="https://github.com/Zamariolo/Datasets/blob/master/Isolamento_MG.ipynb" target="_blank" class="btn btnMenu col">Ver relatório completo</a>
+			</div>
+		</div> <!--Fim Isolamento-->
+	  </div>
+
+	  <!-- Casos -->
+	  <div class="gallery-cell">
+	  	<div class="container">
+			<center><h2 class="titulosGraficos">Casos de COVID-19</h2></center>
+
+			<div class="separador-sm"></div>
+			<div id='canvasCasos' class=""></div>
+			<div class="separador-sm"></div>
+
+			<!-- Barra de transparencia -->
+			<div class="row border">
+				<a href="" class="btn btnMenu col">Baixar imagem</a>
+				<a href="" class="btn btnMenu col">Baixar dados (.csv)</a>
+				<a href="" class="btn btnMenu col">Baixar dados (Excel)</a>
+				<a href="" class="btn btnMenu col">Ver algoritmo</a>
+			</div>
+		</div> <!--Fim Casos COVID19 -->
+	  </div>
+
+	  <!-- Curados -->
+	  <div class="gallery-cell">
+	  	<div class="container">
+			<center><h2 class="titulosGraficos">84.4% dos infectados pelo COVID-19 já estão curados em Mogi Guaçu</h2></center>
+
+			<div class="separador-sm"></div>
+			<div id='canvasCurados'></div>
+			<div class="separador-sm"></div>
+
+			<!-- Barra de transparencia -->
+			<div class="row border">
+				<a href="" class="btn btnMenu col">Baixar imagem</a>
+				<a href="" class="btn btnMenu col">Baixar dados (.csv)</a>
+				<a href="" class="btn btnMenu col">Baixar dados (Excel)</a>
+				<a href="" class="btn btnMenu col">Ver algoritmo</a>
+			</div>
+	  	</div> <!-- Fim curados -->
+	  </div>
+
+	  <!-- Testes realizados -->
+	  <div class="gallery-cell">
+	  	<div class="container">
+			<center><h2 class="titulosGraficos">Saíram, em média, 4 resultados de testes de COVID-19 por dia</h2></center>
+
+			<div class="separador-sm"></div>
+			<div id='canvasTestes'></div>
+			<div class="separador-sm"></div>
+
+			<!-- Barra de transparencia -->
+			<div class="row border">
+				<a href="" class="btn btnMenu col">Baixar imagem</a>
+				<a href="" class="btn btnMenu col">Baixar dados (.csv)</a>
+				<a href="" class="btn btnMenu col">Baixar dados (Excel)</a>
+				<a href="" class="btn btnMenu col">Ver algoritmo</a>
+			</div>
+	  	</div> <!-- Fim curados -->
+	  </div>
+
+	</div>
+
+
+	<div class="separador"></div>
+	<div class="separador"></div>
+	<!-- Menu final -->
+	<div class="container">
+		<center>
+		<a href="" class="btnMenu btn">Colabore</a>
+		<a href="" class="btnMenu btn">Referências</a>
+		<a href="" class="btnMenu btn">Sobre</a>
+		</center>
+	</div>
+
+
+
+	<link rel="stylesheet" type="text/css" href="indexStyle.css">
+
+	<!-- Graficos -->
+	<script type="text/javascript" src="titledraw.js"></script>
+
+	<script type="text/javascript" src="chartjs/curados.js"></script>
+	<script type="text/javascript" src="chartjs/casos.js"></script>
+	<script type="text/javascript" src="chartjs/isolamento.js"></script>
+	<script type="text/javascript" src="chartjs/testes.js"></script>
+	
+	<!-- Carousel -->
+	<script src="libJS/flickity.js"></script>
+	
+
+</body>
+</html>
