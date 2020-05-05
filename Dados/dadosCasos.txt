@@ -1,4 +1,5 @@
-dadosCasos = {}
+{
+casos: 34,
+ativos: 3
 
-dadosCasos['casos'] = 34;
-dadosCasos['ativos'] = 3;
+}
