@@ -1,6 +1,6 @@
 {
 
-ultimaAtualizacao: 02/05/2020,
+ultimaAtualizacao: '02/05/2020',
 casosDiarios: 1
 
 }
