@@ -1,5 +1,6 @@
 {
-casos: 34,
-ativos: 3
+
+ultimaAtualizacao: 34,
+casosDiarios: 1
 
 }
