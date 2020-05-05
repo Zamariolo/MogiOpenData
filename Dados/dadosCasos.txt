@@ -1,6 +1,4 @@
-dadosCasos 
-{
-casos: 3,
-curados: 30	
+dadosCasos = {}
 
-};
+dadosCasos['casos'] = 34;
+dadosCasos['ativos'] = 3;
