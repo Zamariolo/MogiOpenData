@@ -1,6 +1,6 @@
 dadosCasos 
 {
-	casos: 3,
-	curados: 30	
+casos: 3,
+curados: 30	
 
 };
