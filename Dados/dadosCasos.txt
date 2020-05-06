@@ -1,6 +1,6 @@
 {
 
-ultimaAtualizacao: '05/05/2020 às 20:04',
+ultimaAtualizacao: '06/05/2020 às 20:04',
 casosDiarios: 1,
 testesDiarios: 4.22,
 testesEssaSemana: 19,
