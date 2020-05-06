@@ -5,6 +5,6 @@ casosDiarios: 1,
 testesDiarios: 4,
 testesEssaSemana: 21,
 testesDiariosEssaSemana: 3,
-porcentagemCurados: '100.0%'
+porcentagemCurados: '84.4%'
 
 }
