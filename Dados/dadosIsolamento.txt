@@ -5,6 +5,9 @@ mediaHistorica: '50.8%',
 media15: '49.5%',
 media7: '49.1%',
 media3: '49.3%',
-hoje: '46.0%'
+hoje: '46.0%',
+
+historicaDU: '49.0%',
+historicaFDS:'56.0%'
 
 }
