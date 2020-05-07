@@ -1,6 +1,6 @@
 {
 
-ultimaAtualizacao: '07/05/2020 as 19:01:43',
+ultimaAtualizacao: '07/05/2020 as 19:09:34',
 
 mediaHistorica: '50.8%',
 media15: '49.5%',
