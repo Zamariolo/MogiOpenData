@@ -1,10 +1,10 @@
 {
 
-ultimaAtualizacao: '09/05/2020 as 21:12:31',
+ultimaAtualizacao: '10/05/2020 as 20:07:16',
 casosDiarios: 0.9,
 testesDiarios: 4.4,
-testesEssaSemana: 32,
-testesDiariosEssaSemana: 4.6,
-porcentagemCurados: '89.2%'
+testesEssaSemana: 28,
+testesDiariosEssaSemana: 4.0,
+porcentagemCurados: '89.5%'
 
 }
