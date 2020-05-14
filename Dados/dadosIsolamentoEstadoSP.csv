@@ -1,0 +1,62 @@
+DATA,Município,Cdufmun,UF,Escala de cor,Number of Records,População,Índice de isolamento,isolamento_num,Dia da semana
+3/5/2020,Estado de São Paulo,,,Até 40%,1,,30%,0.3,Quinta-Feira
+3/6/2020,Estado de São Paulo,,,Até 40%,1,,29%,0.29,Sexta-feira
+3/12/2020,Estado de São Paulo,,,Até 40%,1,,28%,0.28,Quinta-Feira
+3/13/2020,Estado de São Paulo,,,Até 40%,1,,30%,0.3,Sexta-feira
+3/17/2020,Estado de São Paulo,,,Até 40%,1,,38%,0.38,Terça-feira
+3/18/2020,Estado de São Paulo,,,Até 40%,1,,40%,0.4,Quarta-feira
+3/19/2020,Estado de São Paulo,,,>40-50%,1,,42%,0.42,Quinta-Feira
+3/20/2020,Estado de São Paulo,,,>40-50%,1,,44%,0.44,Sexta-feira
+3/21/2020,Estado de São Paulo,,,>50-60%,1,,56%,0.56,Sábado
+3/22/2020,Estado de São Paulo,,,>50-60%,1,,56%,0.56,Domingo
+3/23/2020,Estado de São Paulo,,,>50-60%,1,,52%,0.52,Segunda-feira
+3/24/2020,Estado de São Paulo,,,>50-60%,1,,54%,0.54,Terça-feira
+3/25/2020,Estado de São Paulo,,,>50-60%,1,,54%,0.54,Quarta-feira
+3/26/2020,Estado de São Paulo,,,>50-60%,1,,54%,0.54,Quinta-Feira
+3/27/2020,Estado de São Paulo,,,>50-60%,1,,53%,0.53,Sexta-feira
+3/28/2020,Estado de São Paulo,,,>50-60%,1,,56%,0.56,Sábado
+3/29/2020,Estado de São Paulo,,,>50-60%,1,,59%,0.59,Domingo
+3/30/2020,Estado de São Paulo,,,>50-60%,1,,55%,0.55,Segunda-feira
+3/31/2020,Estado de São Paulo,,,>50-60%,1,,55%,0.55,Terça-feira
+4/1/2020,Estado de São Paulo,,,>50-60%,1,,55%,0.55,Quarta-feira
+4/2/2020,Estado de São Paulo,,,>50-60%,1,,55%,0.55,Quinta-Feira
+4/3/2020,Estado de São Paulo,,,>50-60%,1,,54%,0.54,Sexta-feira
+4/4/2020,Estado de São Paulo,,,>50-60%,1,,57%,0.57,Sábado
+4/5/2020,Estado de São Paulo,,,>50-60%,1,,59%,0.59,Domingo
+4/6/2020,Estado de São Paulo,,,>50-60%,1,,52%,0.52,Segunda-feira
+4/7/2020,Estado de São Paulo,,,>50-60%,1,,51%,0.51,Terça-feira
+4/8/2020,Estado de São Paulo,,,>40-50%,1,,50%,0.5,Quarta-feira
+4/9/2020,Estado de São Paulo,,,>40-50%,1,,47%,0.47,Quinta-Feira
+4/10/2020,Estado de São Paulo,,,>50-60%,1,,57%,0.57,Sexta-feira
+4/11/2020,Estado de São Paulo,,,>50-60%,1,,55%,0.55,Sábado
+4/12/2020,Estado de São Paulo,,,>50-60%,1,,59%,0.59,Domingo
+4/13/2020,Estado de São Paulo,,,>40-50%,1,,50%,0.5,Segunda-feira
+4/14/2020,Estado de São Paulo,,,>40-50%,1,,50%,0.5,Terça-feira
+4/15/2020,Estado de São Paulo,,,>40-50%,1,,50%,0.5,Quarta-feira
+4/16/2020,Estado de São Paulo,,,>40-50%,1,,49%,0.49,Quinta-Feira
+4/17/2020,Estado de São Paulo,,,>40-50%,1,,49%,0.49,Sexta-feira
+4/18/2020,Estado de São Paulo,,,>50-60%,1,,54%,0.54,Sábado
+4/19/2020,Estado de São Paulo,,,>50-60%,1,,59%,0.59,Domingo
+4/20/2020,Estado de São Paulo,,,>50-60%,1,,51%,0.51,Segunda-feira
+4/21/2020,Estado de São Paulo,,,>50-60%,1,,57%,0.57,Terça-feira
+4/22/2020,Estado de São Paulo,,,>40-50%,1,,48%,0.48,Quarta-feira
+4/23/2020,Estado de São Paulo,,,>40-50%,1,,48%,0.48,Quinta-Feira
+4/24/2020,Estado de São Paulo,,,>40-50%,1,,48%,0.48,Sexta-feira
+4/25/2020,Estado de São Paulo,,,>50-60%,1,,52%,0.52,Sábado
+4/26/2020,Estado de São Paulo,,,>50-60%,1,,58%,0.58,Domingo
+4/27/2020,Estado de São Paulo,,,>40-50%,1,,48%,0.48,Segunda-feira
+4/28/2020,Estado de São Paulo,,,>40-50%,1,,48%,0.48,Terça-feira
+4/29/2020,Estado de São Paulo,,,>40-50%,1,,47%,0.47,Quarta-feira
+4/30/2020,Estado de São Paulo,,,>40-50%,1,,46%,0.46,Quinta-Feira
+5/1/2020,Estado de São Paulo,,,>50-60%,1,,56%,0.56,Sexta-feira
+5/2/2020,Estado de São Paulo,,,>50-60%,1,,53%,0.53,Sábado
+5/3/2020,Estado de São Paulo,,,>50-60%,1,,59%,0.59,Domingo
+5/4/2020,Estado de São Paulo,,,>40-50%,1,,47%,0.47,Segunda-feira
+5/5/2020,Estado de São Paulo,,,>40-50%,1,,47%,0.47,Terça-feira
+5/6/2020,Estado de São Paulo,,,>40-50%,1,,47%,0.47,Quarta-feira
+5/7/2020,Estado de São Paulo,,,>40-50%,1,,47%,0.47,Quinta-Feira
+5/8/2020,Estado de São Paulo,,,>40-50%,1,,46%,0.46,Sexta-feira
+5/9/2020,Estado de São Paulo,,,>40-50%,1,,50%,0.5,Sábado
+5/10/2020,Estado de São Paulo,,,>50-60%,1,,53%,0.53,Domingo
+5/11/2020,Estado de São Paulo,,,>40-50%,1,,48%,0.48,Segunda-feira
+5/12/2020,Estado de São Paulo,,,>40-50%,1,,47%,0.47,Terça-feira
