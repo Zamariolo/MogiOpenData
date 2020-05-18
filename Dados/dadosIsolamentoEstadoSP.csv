@@ -1,5 +1,4 @@
 Data,Município1,UF1,Escala de cor,Number of Records,Índice de isolamento,isolamento_num,Dia da semana
-5/16/2020,ESTADO DE SÃO PAULO,SP,>50-60%,1,50%,0.5,Sábado
 3/5/2020,ESTADO DE SÃO PAULO,SP,Até 40%,1,30%,0.3,Quinta-Feira
 3/6/2020,ESTADO DE SÃO PAULO,SP,Até 40%,1,29%,0.29,Sexta-feira
 3/12/2020,ESTADO DE SÃO PAULO,SP,Até 40%,1,28%,0.28,Quinta-Feira
@@ -65,3 +64,4 @@ Data,Município1,UF1,Escala de cor,Number of Records,Índice de isolamento,isola
 5/14/2020,ESTADO DE SÃO PAULO,SP,>40-50%,1,48%,0.48,Quinta-Feira
 5/15/2020,ESTADO DE SÃO PAULO,SP,>40-50%,1,47%,0.47,Sexta-feira
 5/16/2020,ESTADO DE SÃO PAULO,SP,>40-50%,1,50%,0.5,Sábado
+5/17/2020,ESTADO DE SÃO PAULO,SP,>40-50%,1,54%,0.54,Domingo
