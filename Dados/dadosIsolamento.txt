@@ -1,19 +1,19 @@
 {
 
-ultimaAtualizacao: '23/05/2020 as 20:03:45',
+ultimaAtualizacao: '25/05/2020 as 11:20:44',
 
 mediaHistorica: '49.6%',
-media15: '46.1%',
+media15: '46.3%',
 media7: '45.9%',
-media3: '44.3%',
-hoje: '44.0%',
+media3: '45.3%',
+hoje: '47.0%',
 
 historicaDU: '48.0%',
-historicaFDS:'54.4%',
+historicaFDS:'54.1%',
 m15DU: '45.1%',
-m15FDS: '53.9%',
+m15FDS: '53.1%',
 m7DU: '44.9%',
-m7FDS: '51.3%'
+m7FDS: '49.9%'
 
 
 }
