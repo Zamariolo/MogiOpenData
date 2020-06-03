@@ -1,7 +1,10 @@
 {
 
-ultimaAtualizacao: '03/06/2020 as 19:29:41',
+ultimaAtualizacao: '03/06/2020 as 19:42:04',
 
+isolamentoUltimaSemana: '45.29%', 
+quedaIsolamentoUltimaSemana: '3.9%', 
+aumentoNumPessoasUltimaSemana: 5975, 
 mediaHistorica: '49.2%',
 media15: '45.9%',
 media7: '45.3%',
