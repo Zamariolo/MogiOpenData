@@ -1,15 +1,15 @@
 {
 
-ultimaAtualizacao: '04/06/2020 as 20:18:49',
-casosDiarios: 2.5,
-testesDiarios: 7.5,
-testesEssaSemana: 79,
-testesPorMilHabitantes: 3.29, 
-diaDesdeContagio1: 67, 
-testesUltimos15Dias: '49.20%', 
-testesDiariosEssaSemana: 11.3,
-porcentagemCurados: '79.3%',
-mortesPorDesfechos: '2.90%', 
+ultimaAtualizacao: '05/06/2020 as 22:11:39',
+casosDiarios: 2.6,
+testesDiarios: 7.7,
+testesEssaSemana: 102,
+testesPorMilHabitantes: 3.45, 
+diaDesdeContagio1: 68, 
+testesUltimos15Dias: '48.66%', 
+testesDiariosEssaSemana: 14.6,
+porcentagemCurados: '81.4%',
+mortesPorDesfechos: '2.70%', 
 mortesPorDesfechosBrasil: '11.02%'
 
 }
