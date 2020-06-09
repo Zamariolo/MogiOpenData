@@ -1,6 +1,10 @@
 {
 
-ultimaAtualizacao: '08/06/2020 as 20:02:28',
+ultimaAtualizacao: '09/06/2020 as 12:16:14',
+leitos_uti_ocupados: 10, 
+leitos_clinicos_ocupados: 13, 
+porcentagem_uti_ocupados: '34.5%', 
+porcentagem_aumento_uti: '66.7%', 
 casosDiarios: 2.9,
 testesDiarios: 8.2,
 testesEssaSemana: 119,
