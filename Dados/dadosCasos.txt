@@ -1,6 +1,6 @@
 {
 
-ultimaAtualizacao: '02/07/2020 as 12:19:52',
+ultimaAtualizacao: '02/07/2020 as 12:28:18',
 leitos_uti_ocupados: 14, 
 leitos_clinicos_ocupados: 22, 
 porcentagem_uti_ocupados: '48.3%', 
