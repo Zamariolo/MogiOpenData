@@ -1,10 +1,10 @@
 {
 
-ultimaAtualizacao: '09/07/2020 as 21:07:58',
+ultimaAtualizacao: '11/07/2020 as 09:52:57',
 
 isolamentoUltimaSemana: '43.00%', 
 quedaIsolamentoUltimaSemana: '4.4%', 
-aumentoNumPessoasUltimaSemana: 6745, 
+aumentoNumPessoasUltimaSemana: 6675, 
 mediaHistorica: '47.4%',
 media15: '43.5%',
 media7: '43.0%',
@@ -13,9 +13,9 @@ hoje: '42.0%',
 
 historicaDU: '46.0%',
 historicaFDS:'51.2%',
-m15DU: '42.2%',
+m15DU: '42.3%',
 m15FDS: '47.3%',
-m7DU: '42.0%',
+m7DU: '41.9%',
 m7FDS: '46.3%'
 
 
