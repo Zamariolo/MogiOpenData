@@ -1,21 +1,21 @@
 {
 
-ultimaAtualizacao: '25/08/2020 as 23:02:27',
+ultimaAtualizacao: '28/08/2020 as 11:18:31',
 
-isolamentoUltimaSemana: '41.57%', 
+isolamentoUltimaSemana: '41.43%', 
 quedaIsolamentoUltimaSemana: '4.3%', 
-aumentoNumPessoasUltimaSemana: 6469, 
+aumentoNumPessoasUltimaSemana: 6580, 
 mediaHistorica: '45.8%',
-media15: '41.6%',
-media7: '41.6%',
-media3: '43.3%',
+media15: '41.5%',
+media7: '41.4%',
+media3: '40.0%',
 hoje: '40.0%',
 
 historicaDU: '44.4%',
 historicaFDS:'49.4%',
-m15DU: '39.4%',
+m15DU: '39.5%',
 m15FDS: '45.5%',
-m7DU: '40.4%',
+m7DU: '40.1%',
 m7FDS: '45.1%'
 
 
