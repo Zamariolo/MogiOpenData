@@ -1,4 +1,4 @@
-data,leitos_clinicos_ocupados,leitos_uti_ocupados,casos,Curados,Ativos,suspeitos,mortes,Testes realizados,Casos negativos,novosTestes
+Data,Leitos clínicos ocupados,Leitos UTI ocupados,Casos positivos,Curados,Ativos,Suspeitos,Óbitos,Testes realizados,Casos negativos,Testes diários
 2020/03/30,,,1,0.0,,29,0,3,2,3
 2020/03/31,8.0,2.0,1,,,30,0,4,3,1
 2020/04/01,8.0,2.0,1,,,32,0,5,4,1
