@@ -1,0 +1,19 @@
+{
+
+ultimaAtualizacao: '23/11/2020 as 09:09:39',
+leitos_uti_ocupados: 4, 
+leitos_clinicos_ocupados: 18, 
+porcentagem_uti_ocupados: '11.8%', 
+porcentagem_aumento_uti: '-33.3%', 
+casosDiarios: 15.4,
+testesDiarios: 61.8,
+testesEssaSemana: 674,
+testesPorMilHabitantes: 96.85, 
+diaDesdeContagio1: 238, 
+testesUltimos15Dias: '10.47%', 
+testesDiariosEssaSemana: 96.3,
+porcentagemCurados: '96.0%',
+mortesPorDesfechos: '2.69%', 
+mortesPorDesfechosBrasil: '3.02%'
+
+}
