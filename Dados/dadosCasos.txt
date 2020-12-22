@@ -1,19 +1,19 @@
 {
 
-ultimaAtualizacao: '16/12/2020 as 21:44:59',
-leitos_uti_ocupados: 7, 
-leitos_clinicos_ocupados: 16, 
-porcentagem_uti_ocupados: '20.6%', 
-porcentagem_aumento_uti: '-30.0%', 
-casosDiarios: 16.3,
-testesDiarios: 66.5,
-testesEssaSemana: 369,
-testesPorMilHabitantes: 114.79, 
-diaDesdeContagio1: 262, 
-testesUltimos15Dias: '8.09%', 
-testesDiariosEssaSemana: 52.7,
-porcentagemCurados: '96.3%',
-mortesPorDesfechos: '2.42%', 
-mortesPorDesfechosBrasil: '2.86%'
+ultimaAtualizacao: '22/12/2020 as 20:45:44',
+leitos_uti_ocupados: 8, 
+leitos_clinicos_ocupados: 17, 
+porcentagem_uti_ocupados: '23.5%', 
+porcentagem_aumento_uti: '14.3%', 
+casosDiarios: 16.8,
+testesDiarios: 67.4,
+testesEssaSemana: 638,
+testesPorMilHabitantes: 118.99, 
+diaDesdeContagio1: 268, 
+testesUltimos15Dias: '7.44%', 
+testesDiariosEssaSemana: 91.1,
+porcentagemCurados: '95.9%',
+mortesPorDesfechos: '2.35%', 
+mortesPorDesfechosBrasil: '2.81%'
 
 }
