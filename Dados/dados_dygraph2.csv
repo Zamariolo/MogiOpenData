@@ -1,4 +1,4 @@
-data,dia desde 1 contagio,casos,mortes,Ativos,taxa morte contaminados,Curados,Casos negativos,Testes realizados,novosCasos,suspeitos,mortesSuspeitas,suspeitosAtivos,novosTestes,leitos_clinicos_ocupados,leitos_uti_ocupados,semana
+Data,Dia desde contágio 1,Casos confirmados,Óbitos,Casos ativos,Taxa morte contaminados,Curados,Casos negativos,Testes realizados,Novos Casos,Suspeitos,Óbitos suspeitos,Suspeitos ativos,Novos testes realizados,Leitos clínicos ocupados,Leitos UTI ocupados,Semana
 2020/03/30,1,1,0,,0.0,0.0,2,3,1,29,2,27,3,,,1
 2020/03/31,2,1,0,,0.0,,3,4,0,30,3,27,1,8.0,2.0,1
 2020/04/01,3,1,0,,0.0,,4,5,0,32,2,30,1,8.0,2.0,1
