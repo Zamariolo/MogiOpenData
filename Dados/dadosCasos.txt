@@ -1,6 +1,6 @@
 {
 
-ultimaAtualizacao: '05/01/2021 as 20:29:31',
+ultimaAtualizacao: '05/01/2021 as 23:10:30',
 leitos_uti_ocupados: 16, 
 leitos_clinicos_ocupados: 21, 
 porcentagem_uti_ocupados: '47.1%', 
