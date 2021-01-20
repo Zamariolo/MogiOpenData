@@ -1,19 +1,19 @@
 {
 
-ultimaAtualizacao: '18/01/2021 as 22:05:44',
+ultimaAtualizacao: '20/01/2021 as 14:36:23',
 leitos_uti_ocupados: 14, 
-leitos_clinicos_ocupados: 37, 
+leitos_clinicos_ocupados: 38, 
 porcentagem_uti_ocupados: '41.2%', 
-porcentagem_aumento_uti: '27.3%', 
-casosDiarios: 19.8,
-testesDiarios: 72.1,
-testesEssaSemana: 854,
-testesPorMilHabitantes: 140.00, 
-diaDesdeContagio1: 295, 
-testesUltimos15Dias: '11.16%', 
-testesDiariosEssaSemana: 122.0,
-porcentagemCurados: '95.7%',
-mortesPorDesfechos: '2.19%', 
-mortesPorDesfechosBrasil: '2.72%'
+porcentagem_aumento_uti: '40.0%', 
+casosDiarios: 20.0,
+testesDiarios: 72.5,
+testesEssaSemana: 898,
+testesPorMilHabitantes: 141.22, 
+diaDesdeContagio1: 296, 
+testesUltimos15Dias: '11.55%', 
+testesDiariosEssaSemana: 128.3,
+porcentagemCurados: '95.4%',
+mortesPorDesfechos: '2.18%', 
+mortesPorDesfechosBrasil: '2.70%'
 
 }
