@@ -1,0 +1,22 @@
+{
+
+ultimaAtualizacao: '22/01/2021 as 22:26:33',
+
+isolamentoUltimaSemana: '40.86%', 
+quedaIsolamentoUltimaSemana: '2.5%', 
+aumentoNumPessoasUltimaSemana: 3785, 
+mediaHistorica: '43.3%',
+media15: '41.1%',
+media7: '40.9%',
+media3: '39.7%',
+hoje: '39.0%',
+
+historicaDU: '42.1%',
+historicaFDS:'46.5%',
+m15DU: '40.5%',
+m15FDS: '44.3%',
+m7DU: '39.7%',
+m7FDS: '46.4%'
+
+
+}
