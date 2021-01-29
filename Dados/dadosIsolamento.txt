@@ -1,6 +1,6 @@
 {
 
-ultimaAtualizacao: '29/01/2021 as 17:52:02',
+ultimaAtualizacao: '29/01/2021 as 18:28:57',
 
 isolamentoUltimaSemana: '40.57%', 
 quedaIsolamentoUltimaSemana: '2.7%', 
